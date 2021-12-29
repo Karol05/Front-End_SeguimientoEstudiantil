@@ -46,5 +46,4 @@ function usuarios(){
         console.log("registro")
     }).catch(e => { console.log("El ingreso fallo"); })
 
-
 }
